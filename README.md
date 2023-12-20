@@ -53,3 +53,4 @@ Feel free to add suggestions or feedback as we continue to grow the list! Happy 
 | Book Title                                                          | Author            | Link |
 | ------------------------------------------------------------------- | ----------------- | ---- |
 | A Concise Introduction to Models and Methods for Automated Planning | Geffner and Bonet | [here](https://link.springer.com/book/10.1007/978-3-031-01564-9)     |
+| Algorithms for Decision Making                                      | Kochenderfer, Wheeler, and Wray | [here](https://algorithmsbook.com/) |
