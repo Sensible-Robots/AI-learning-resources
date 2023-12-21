@@ -27,7 +27,7 @@ Feel free to add suggestions or feedback as we continue to grow the list! Issues
 
 [Standford CS234](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u) -- Playlist of 15 lectures from Stanford covering RL fundamentals.
 
-## Computional Theory
+## Computational Theory
 
 [Theory of Computation](https://www.youtube.com/watch?v=9syvZr-9xwk&list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY) -- Playlist of 26 lectures of the entirety of the MIT Theory of Computation Fall 2020 course.
 
