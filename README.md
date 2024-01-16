@@ -23,6 +23,8 @@ Feel free to add suggestions or feedback as we continue to grow the list! Issues
 
 ## Reinforcement Learning
 
+[Berkeley Deep RL](https://www.youtube.com/watch?v=SupFHGbytvA&list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps) -- Playlist of the full Deep RL course at Berkeley (99 videos in total) by Sergey Levine.
+
 [Deepmind x UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm) -- Playlist of 13 lectures covering RL fundamentals by Google Deepmind in colaboration with UCL.
 
 [Standford CS234](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u) -- Playlist of 15 lectures from Stanford covering RL fundamentals.
@@ -71,6 +73,7 @@ Feel free to add suggestions or feedback as we continue to grow the list! Issues
 | -------------------------------------- | ---------------- | ------------------------------------------------------------- |
 | Reinforcement Learning An Introduction | Sutton and Barto | [here](http://incompleteideas.net/sutton/book/RLbook2018.pdf) |
 | Algorithms for Reinforcement Learning  | Csaba Szepesvari | [here](https://sites.ualberta.ca/~szepesva/rlbook.html)       |
+| Bandit Algorithms                      | Tor Lattimore and Csaba Szepesv´ari | [here](https://tor-lattimore.com/downloads/book/book.pdf)|
 
 
 ## Information Theory
@@ -85,6 +88,10 @@ Feel free to add suggestions or feedback as we continue to grow the list! Issues
 | ------------------------------------------------------------------- | ----------------- | ---- |
 | A Concise Introduction to Models and Methods for Automated Planning | Geffner and Bonet | [here](https://link.springer.com/book/10.1007/978-3-031-01564-9)     |
 | Algorithms for Decision Making                                      | Kochenderfer, Wheeler, and Wray | [here](https://algorithmsbook.com/) |
+
+# Blog Posts
+## Reinforcement Learning
+[Policy Gradient Algorithms](https://lilianweng.github.io/posts/2018-04-08-policy-gradient/) -- post by Lilian Weng explaining policy gradient algorithms in-depth.
 
 # Email Lists & Newsletters
 
